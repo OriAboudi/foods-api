@@ -1,0 +1,173 @@
+[{
+  "_id": {
+    "$oid": "635e69c1f0d7593da60ffe2c"
+  },
+  "name": "Vanila cake 3",
+  "cals": 800,
+  "price": 30,
+  "img_url": "https://images.pexels.com/photos/12407447/pexels-photo-12407447.jpeg?auto=compress&cs=tinysrgb&w=600"
+},{
+  "_id": {
+    "$oid": "635e69c1f0d7593da60ffe2d"
+  },
+  "name": "Chocolate cake",
+  "cals": 700,
+  "price": 40,
+  "img_url": "https://images.pexels.com/photos/12118046/pexels-photo-12118046.jpeg?auto=compress&cs=tinysrgb&w=600"
+},{
+  "_id": {
+    "$oid": "635e69c1f0d7593da60ffe2e"
+  },
+  "name": "Orange cake",
+  "cals": 700,
+  "price": 45,
+  "img_url": "https://images.pexels.com/photos/2035738/pexels-photo-2035738.jpeg?auto=compress&cs=tinysrgb&w=600"
+},{
+  "_id": {
+    "$oid": "635e69c1f0d7593da60ffe2f"
+  },
+  "name": "Pizza",
+  "cals": 600,
+  "price": 35,
+  "img_url": "https://images.pexels.com/photos/1552635/pexels-photo-1552635.jpeg?auto=compress&cs=tinysrgb&w=600"
+},{
+  "_id": {
+    "$oid": "635e6a7bf0d7593da60ffe30"
+  },
+  "name": "Pasta",
+  "cals": 600,
+  "price": 45,
+  "img_url": "https://images.pexels.com/photos/1487511/pexels-photo-1487511.jpeg?auto=compress&cs=tinysrgb&w=600"
+},{
+  "_id": {
+    "$oid": "63676db01a2ddf39321e85c8"
+  },
+  "name": "Apple pie",
+  "cals": 314,
+  "price": 32,
+  "img_url": "https://images.pexels.com/photos/6163273/pexels-photo-6163273.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63676e2676342633fee76e60"
+  },
+  "name": "Apple pie",
+  "cals": 314,
+  "price": 32,
+  "img_url": "https://images.pexels.com/photos/6163273/pexels-photo-6163273.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "636779c1b9d241a35b32ca03"
+  },
+  "name": "Kiwi pie",
+  "cals": 500,
+  "price": 32,
+  "img_url": "https://images.pexels.com/photos/5863603/pexels-photo-5863603.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6370b8c7f8486e2462b2e6d0"
+  },
+  "name": "Shakshoka",
+  "cals": 600,
+  "price": 35,
+  "img_url": "https://images.pexels.com/photos/6163273/pexels-photo-6163273.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6373ce5a52667c1978bbb60b"
+  },
+  "name": "fe bfsden",
+  "email": "orindsdfs@walla.com",
+  "password": "**********",
+  "role": "user",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1668533850144"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6373d007c24154ecfa92f9a2"
+  },
+  "name": "fe bfsden",
+  "email": "orindsdfs@walla.com",
+  "password": "**********",
+  "role": "user",
+  "date_created": {
+    "$date": {
+      "$numberLong": "1668534258044"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379f45041fb4d1f2b545040"
+  },
+  "name": "Apple pie",
+  "cals": 314,
+  "price": 32,
+  "img_url": "https://images.pexels.com/photos/6163273/pexels-photo-6163273.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379f4abbdd53a4b75a3c6bd"
+  },
+  "name": "Apple pie",
+  "cals": 314,
+  "price": 32,
+  "img_url": "https://images.pexels.com/photos/6163273/pexels-photo-6163273.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379f77cc6adf8adbe353667"
+  },
+  "name": "Apple pie",
+  "cals": 314,
+  "price": 32,
+  "img_url": "https://images.pexels.com/photos/6163273/pexels-photo-6163273.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "user_id": "6379f495bdd53a4b75a3c6ba",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379f86cc6adf8adbe353669"
+  },
+  "name": "Mushrooms pizza",
+  "cals": 500,
+  "price": 45,
+  "img_url": "https://images.pexels.com/photos/5695928/pexels-photo-5695928.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "user_id": "6379f495bdd53a4b75a3c6ba",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379f87dc6adf8adbe35366b"
+  },
+  "name": "Mushrooms pizza",
+  "cals": 500,
+  "price": 45,
+  "img_url": "https://images.pexels.com/photos/7813575/pexels-photo-7813575.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "user_id": "6379f495bdd53a4b75a3c6ba",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379fd91c3d08119834c1fba"
+  },
+  "name": "Mushrooms pizza",
+  "cals": 500,
+  "price": 45,
+  "img_url": "https://images.pexels.com/photos/7813575/pexels-photo-7813575.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "user_id": "6379f495bdd53a4b75a3c6ba",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6379fd92c3d08119834c1fbc"
+  },
+  "name": "Mushrooms pizza",
+  "cals": 500,
+  "price": 45,
+  "img_url": "https://images.pexels.com/photos/7813575/pexels-photo-7813575.jpeg?auto=compress&cs=tinysrgb&w=600",
+  "user_id": "6379f495bdd53a4b75a3c6ba",
+  "__v": 0
+}]
